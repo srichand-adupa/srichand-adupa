@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm Srichand Adupa
 
-<!--
-**srichand-adupa/srichand-adupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a QA Automation Engineer with 1.3 years of experience in:
+- 🧪 Selenium WebDriver + Java
+- 🔁 REST API testing with Postman
+- 📂 TestNG, Cucumber (BDD), Jenkins, Git
+- 📋 Manual Testing | SDLC | STLC | Defect Lifecycle
 
-Here are some ideas to get you started:
+🌱 Currently enhancing my skills in Playwright & JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Projects you'll find here:
+- 🚀 Fullstack test automation for DoctorCRM
+- 🔍 API Testing Collections
+- 📑 Sample test plans and test case designs
+
+📫 How to reach me: srichandadupa5@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/srichand-adupa-251688187](https://linkedin.com/in/srichand-adupa-251688187)
