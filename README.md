@@ -2,7 +2,7 @@
 
 🎯 I'm a QA Automation Engineer with 1.3 years of experience in:
 - 🧪 Selenium WebDriver + Java
-- 🔁 REST API testing with Postman
+- 🔁 API testing with Postman
 - 📂 TestNG, Cucumber (BDD), Jenkins, Git
 - 📋 Manual Testing | SDLC | STLC | Defect Lifecycle
 
